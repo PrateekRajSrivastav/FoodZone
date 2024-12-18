@@ -4,3 +4,16 @@ Key Features
 🎨 Clean UI/UX: User-friendly interface with visually appealing design elements.
 🛒 Order Now Section: CTA (Call-to-Action) buttons for user engagement.
 🌐 Fast Performance: Deployed on Netlify for lightning-fast load times.
+
+Applications
+This project can be adapted for:
+
+1.Online food ordering platforms.
+2.Showcasing menus for restaurants, cafés, or cloud kitchens.
+3.Portfolio projects for front-end developers.
+
+Future Enhancements
+Integration with Backend APIs for real-time food ordering functionality.
+Cart System: Add-to-cart and checkout features for full e-commerce capabilities.
+Search & Filters: Enable users to search and filter menu items by categories, price, or cuisine.
+User Authentication: Allow customers to log in, view order history, and save preferences.
